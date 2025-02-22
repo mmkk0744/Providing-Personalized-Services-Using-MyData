@@ -2,19 +2,18 @@
 
 <br>
 
-> ## 프로젝트 팀 소개
+> ## **프로젝트 팀 소개**
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/30a71690-8b47-4ea8-9969-ff9e50d60853" />
 
 <br>
 
-## 1. 수행절차
+> ## 1. 수행절차
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/82d4022d-a141-4b85-b67d-97dc79db3140" />
 
 <br>
+<br>
 
 > ## 2. 추진배경 및 현황
-
-<br>
 
 ## 어플 및 컨텐츠
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/15da1f7c-10c4-420e-b753-57b75413c6d9" />
