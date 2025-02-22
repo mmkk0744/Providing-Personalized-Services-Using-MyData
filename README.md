@@ -104,7 +104,7 @@
 
 <br>
 
-### 고객 데이터 예시
+### 소비  MBTI 적용한 고객 데이터 예시
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/f98bacb0-08bf-4d32-9ddd-e0ee425ecc63" />
 
 <br>
