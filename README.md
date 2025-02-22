@@ -2,7 +2,7 @@
 
 <br>
 
-## 프로젝트 팀 소개
+> ## 프로젝트 팀 소개
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/30a71690-8b47-4ea8-9969-ff9e50d60853" />
 
 <br>
@@ -12,7 +12,7 @@
 
 <br>
 
-## 2. 추진배경 및 현황
+> ## 2. 추진배경 및 현황
 
 <br>
 
@@ -42,14 +42,14 @@
 
 <br>
 
-## 3. KPI & 특성요인도
+> ## 3. KPI & 특성요인도
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/de09e5c7-aa20-4a17-8c95-113c2e11d591" />
 
 <br> <br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/00c80643-4902-422f-8eab-9f87ade140ea" />
 
-## 4. 분석계획서 & 변수정의서
+> ## 4. 분석계획서 & 변수정의서
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/db63dbe3-8870-4069-9e2a-5c756adc71fd" />
 
 <br> <br>
@@ -58,7 +58,7 @@
 
 <br>
 
-## 5. 분석결과
+> ## 5. 분석결과
 
 <br>
 
