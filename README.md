@@ -101,19 +101,19 @@
     </tbody>
 </table>
 
-<br>
+<br><br>
 
 ### 소비  MBTI 적용한 고객 데이터 예시
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/f98bacb0-08bf-4d32-9ddd-e0ee425ecc63" />
 
-<br>
+<br><br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/228aacf5-e41a-44a0-8680-f9a8a4d01a03" />
 
 ### 각 소비 패턴 유형 특징에 맞는 캐릭터 이미지 구성
 ### 각 유형의 소비 습관과 성향에 따라 차별화된 시각적 요소를 포함하며, 유형의 특징을 직관적으로 보여줄 수 있게 디자인
 
-<br>
+<br><br>
 
 ## 5.2 카드 상품 개발
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/18aeec06-6446-4b71-92b5-8eeefb764fe8" />
@@ -121,26 +121,26 @@
 ### 카드고릴라 기준 인기 상위 카드들의 특징은 선택형 항목들이 존재함
 ### iM뱅크의 i카드를 확인해보니 선택형 항목이 없음
 
-<br>
+<br><br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/f7764b28-08ac-4aeb-a222-a80952c98431" />
 
 ### iM뱅크의 i카드의 특장점으로는 전월실적에서의 소비 유인이 존재함
 ### 해당 강점과 선택형 항목을 추가하는 카드 상품 개발
 
-<br>
+<br><br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/abcd8bc8-54dd-4e59-9b5a-229d122f7570" />
 
 ### 선택형 항목을 생성하게 되었을 시, 고객이 받을 수 있는 할인 혜택이 증가함
 
-<br>
+<br><br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/80fcbb5d-4b82-45d7-b12f-073f58e8b1a5" />
 
 ### 기존 카드 할인 적용 고객과 개선 카드 할인 적용 고객의 Life Time Value값 비교
 
-<br>
+<br><br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/e1c4b311-8036-4714-ba67-726212efda0a" />
 
@@ -156,27 +156,27 @@
 ### iM뱅크의 고정이하여신비율 상승으로 부실채권이 증가, 가계와 신용카드 부문이 기업보다 빠르게 악화
 ### 따라서, 개인신용평가 개선을 통한 리스크 관리 필요
 
-<br>
+<br><br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/fc363f66-a62d-4a6d-876e-630fa0c38cc7" />
 
 ### “통신 빅데이터 활용 개인신용평가모형 (통신스코어) 개발- 김종윤”  논문 활용
 ### 비금융정보 중 통신 데이터를 활용하여 개인신용평가모형을 개발함
 
-<br>
+<br><br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/fb028660-5aba-4fbd-9b21-4baa4351363c" />
 
 ### 통신정보를 통한 신용평가모형의 안정성과 변별력 확인
 
-<br>
+<br><br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/bfe7f0c8-e912-45c5-a0e1-e60053a72152" />
 
 ### 은행연합회 소비자포털에서 iM뱅크(구 대구은행) 가계 대출 데이터 수집(2023년 7월 ~ 2023년 11월)
 ### 같은 등급 내에서도 우수한 고객을 추가로 선별해 등급 재조정
 
-<br>
+<br><br>
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/9c00bedd-0fe0-4bec-bf56-adf34b904c5d" />
 
