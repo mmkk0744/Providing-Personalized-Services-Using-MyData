@@ -10,8 +10,7 @@
 > ## 1. 수행절차
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/82d4022d-a141-4b85-b67d-97dc79db3140" />
 
-<br>
-<br>
+<br><br>
 
 > ## 2. 추진배경 및 현황
 
@@ -21,7 +20,7 @@
 ### 자사는 타사 앱에 비해 사용량이 저조한 상황. 
 ### 또한, 경쟁사는 자사보다 더 다양한 콘텐츠를 제공 중 어플 사용량을 늘리기 위한 어플 콘텐츠 개발이 필요하다고 판단
 
-<br>
+<br><br>
 
 ## 카드 및 트랜드
 
@@ -30,7 +29,7 @@
 ### 휴면 신용카드가 증가하는 추세. 또한, 소비자의 라이프스타일도 빠르게 변화
 ### 소비자 개인의 필요와 변화에 맞춘 개인 맞춤형 카드가 필요
 
-<br>
+<br><br>
 
 ## 건전성
 
@@ -39,7 +38,7 @@
 ### 현재 지속적으로 건전성 문제가 대두되고 있으며, 타 시중은행에 비해 높은 NPL 수준을 보이고 있음
 ### 이에 효과적으로 대응할 수 있는 방안이 필요
 
-<br>
+<br><br>
 
 > ## 3. KPI & 특성요인도
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/de09e5c7-aa20-4a17-8c95-113c2e11d591" />
@@ -55,11 +54,11 @@
 
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/a763d8e9-dc4a-4fdb-b1d1-f60cc03151e5" />
 
-<br>
+<br><br>
 
 > ## 5. 분석결과
 
-<br>
+<br><br>
 
 ## 5.1 콘텐츠 개발
 <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/89a7633f-4448-4497-9d1f-16e2e97db738" />
